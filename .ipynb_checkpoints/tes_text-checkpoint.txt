@@ -1,4 +1,4 @@
-Ini test conflict dari Jack 1
+Ini test conflict dari Jack 1 and John
 
 test jack
 
